@@ -1,3 +1,4 @@
+#python3 getcall_endpoints.py <anyurl>
 import requests
 import sys
 from urllib3.exceptions import InsecureRequestWarning
